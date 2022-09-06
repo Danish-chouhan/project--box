@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(151, 29, 145);
+padding: 30px;
+text-align: center;
+font-size: 35px;
+color: white;
+}
+nav{
+float: left;
+background-color: aqua;
+width: 30%;
+height: 2595px;
+padding: 20px;
+}
+article{
+float: left;
+padding: 30px;
+width: 70%;
+background-color: blue;
+}
+footer{
+background-color: rgb(155, 40, 190);
+padding: 10px;
+text-align: center;
+font-size: 35px;
+color: white;
+
+
+}
+#A8{
+font-size: 80px;
+text-align: center;
+text-decoration: dotted;
+}
+body{
+background-color: black;
+}
