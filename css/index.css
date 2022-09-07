@@ -38,3 +38,17 @@ text-decoration: dotted;
 body{
 background-color: black;
 }
+#b1{
+    background-color:gray ;
+}
+#b2{
+    background-color: aqua;
+}
+#b3{
+    color: aqua;
+    background-color: bisque;
+}
+li{
+    border: 1px solid white;
+    background-color: brown;
+}
